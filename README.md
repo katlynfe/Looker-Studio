@@ -19,3 +19,9 @@ Dashboards desenvolvidos para acompanhamento de métricas.
 - ## Dashboard de acompanhamento orgânico:
 <img width="1242" height="629" alt="Captura de tela 2025-12-05 153135" src="https://github.com/user-attachments/assets/84decaf3-bed1-4437-9d6c-545891dc961a" />
 <img width="1042" height="352" alt="Captura de tela 2025-12-05 152938" src="https://github.com/user-attachments/assets/3e25ccb7-7f09-4eb8-bbb4-52231e5dbfcf" />
+
+- ## Dashboard de Estudo de Performance entre redes:
+<img width="732" height="305" alt="Captura de tela 2025-12-05 154203" src="https://github.com/user-attachments/assets/86a38b8f-80de-407f-aa94-ec2540d23f91" />
+<img width="739" height="388" alt="Captura de tela 2025-12-05 154024" src="https://github.com/user-attachments/assets/4d305854-d913-435b-8f4c-3d6978322d21" />
+<img width="737" height="222" alt="Captura de tela 2025-12-05 154034" src="https://github.com/user-attachments/assets/b43b514b-82cd-497b-9dac-1135150afe3d" />
+
